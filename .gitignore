@@ -9,3 +9,28 @@
 ## itchat.pkl
 ## QR.jpg
 ## .DS_Store
+
+{
+  "name": "itchat",
+  "version": "1.0.8",
+  "description": "Maybe you know itchat on python,so I want to graft it on nodejs.At first I take up a station,then I read itchat py code and web wechat protocol,and I will finish it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "\.shh",
+    "example": "node example/test.js"
+  },
+  "keywords": [
+    "wechat"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Wizardguy210/itchat"
+  },
+  "dependencies": {
+    "log4js": "^1.1.0",
+    "qrcode-terminal": "^0.11.0",
+    "superagent": "^3.4.1"
+  },
+  "author": "Wizardguy210",
+  "license": "MIT"
+}
