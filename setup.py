@@ -1,3 +1,4 @@
+pip install itchat
 """ A wechat personal account api project
 See:
 https://github.com/littlecodersh/ItChat
